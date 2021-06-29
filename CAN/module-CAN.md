@@ -101,9 +101,3 @@ Three main features:
 
 * Terminal **resistors are** needed in **CAN** bus systems because **CAN** communication flows **are** two-way. The termination at each **end** absorbs the **CAN** signal energy, ensuring that this **is** not reflected from the cable **ends**. Such reflections **would** cause interference and potentially damaged signals.
 
-## Coding Task
-
-```C++
-#include
-```
-
